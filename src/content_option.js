@@ -94,7 +94,7 @@ const dataportfolio = [{
         link: "https://github.com/antsharma/Library-Management-System",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "https://github.com/antsharma/final-portfolio/blob/main/g1.png",
         description: "Flipkart GRID 5.0 Semi finalists",
         link: "https://github.com/antsharma/hackout-23",
     },
@@ -110,49 +110,49 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "Social Media Clone",
-        link: "#",
+        description: "Social Media Clone using React, Material UI, NodeJs, ExpressJs, MongoDB",
+        link: "https://github.com/antsharma/SE-semi-final",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Meiobian Galnd Segmentation Detection using ML",
+        link: "https://github.com/antsharma/mini-project",
     },
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: "https://picsum.photos/400/600/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/550/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "antsharma02@gmail.com",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
