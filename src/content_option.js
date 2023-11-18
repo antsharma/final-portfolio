@@ -12,7 +12,8 @@ const introdata = {
         third: "I binge watch Anime",
     },
     //description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    //your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://i.imgur.com/Egb5IBA.jpg",
 };
 
 const dataabout = {
@@ -89,17 +90,17 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://i.imgur.com/nuxkLeo.jpg",
         description: "Library management system using JavaScript, MySQL and NodeJs ",
         link: "https://github.com/antsharma/Library-Management-System",
     },
     {
-        img: "https://github.com/antsharma/final-portfolio/blob/main/g1.png",
+        img: "https://i.imgur.com/i8NM1od.png",
         description: "Flipkart GRID 5.0 Semi finalists",
         link: "https://github.com/antsharma/hackout-23",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://picsum.photos/400/550/?grayscale",
         description: "Social-chitchat application using ReactJs and firebase",
         link: "#",
     },
